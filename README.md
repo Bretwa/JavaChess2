@@ -1,4 +1,4 @@
-JavaChess 2 has been created with Java 7 in 2012. It reaches depth 5 in less than 1s on modern 2018 computer, features :
+JavaChess 2 has been created with Java 7 in 2012. It reaches depth 5 in less than 1s on 2018 modern computer, features :
 
 - human vs human
 - human vs comp
