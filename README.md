@@ -7,7 +7,7 @@ JavaChess 2 has been created with Java 7 in 2012. It reaches depth 5 in less tha
 - algebraic notation
 - alpha-beta
 - depth 1 multithreading
-- Java-type bitboard
+- Java-type bitboards
 
 To run it, create an empty Java project import the 3 packages, put source files into and run main method, see run from source screenshot. It is also possible to directly run the jar with "java -jar JavaChess2.jar", see run from jar screenshot.
 
